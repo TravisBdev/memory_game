@@ -83,7 +83,7 @@ function handleCardClick(event) {
     }
   }
 
-  if (cardsFlipped === COLORS.length) alert("You did it! Congrats!");
+  if (cardsFlipped === COLORS.length) alert("You did it! Congrats! Refresh the page to play again!");
 }
 
 
